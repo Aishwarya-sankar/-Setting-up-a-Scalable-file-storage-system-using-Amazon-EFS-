@@ -57,8 +57,8 @@ cat file
 
 ## OUTPUT
 
-### REG NUMBER:2122222100013
-### NAME: JAYABHARATHI S
+### REG NUMBER:2122222100003
+### NAME: AISHWARYA S
 
 ![image](https://github.com/user-attachments/assets/6f74eeb7-aacb-479c-ba29-c69b50add4e5)
 
